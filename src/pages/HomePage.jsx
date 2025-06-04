@@ -182,7 +182,7 @@ const HomePage = () => {
                     transition={{ duration: 0.6, delay: 0.4 }}
                   >
                     <Link
-                      to="/contact"
+                      to="#footer-contact"
                       className="bg-white text-primary hover:bg-white/90 font-medium px-6 py-3 rounded-md transition-all inline-flex items-center gap-2"
                     >
                       Contact Us
