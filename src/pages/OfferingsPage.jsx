@@ -13,9 +13,9 @@ import {
 const offerings = [
   {
     id: 1,
-    title: "SecurePay Gateway",
+    title: "Switching & Card Management Solutions",
     description:
-      "A comprehensive payment processing solution with advanced fraud detection capabilities, multi-currency support, and seamless integration options. Designed for businesses of all sizes, from small retailers to enterprise corporations.",
+      "Robust transaction routing and management platform supporting real-time payments, fraud detection, and multi-network compatibility including VISA, MasterCard, and local switches.",
     image:
       "https://images.pexels.com/photos/8919570/pexels-photo-8919570.jpeg?auto=compress&cs=tinysrgb&w=1600",
     ctaLink: "/contact",
@@ -23,73 +23,83 @@ const offerings = [
   },
   {
     id: 2,
-    title: "BankingOS Platform",
+    title: "SMART Card Solutions for ID & Banking",
     description:
-      "Core banking infrastructure that enables financial institutions to modernize their systems with cloud-native architecture, modular components, and API-first design. Supports full banking operations with reduced complexity.",
-    image:
-      "https://images.pexels.com/photos/5926389/pexels-photo-5926389.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    ctaLink: "/contact",
-    category: "software",
-  },
-  {
-    id: 3,
-    title: "FinancialAI Analytics",
-    description:
-      "Machine learning platform specifically designed for financial data analysis, offering predictive analytics, risk assessment, customer behavior insights, and automated reporting with customizable dashboards.",
-    image:
-      "https://images.pexels.com/photos/7567464/pexels-photo-7567464.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    ctaLink: "/contact",
-    category: "software",
-  },
-  {
-    id: 4,
-    title: "Digital Wallet System",
-    description:
-      "White-label digital wallet platform that financial institutions and businesses can customize and deploy with their own branding. Features include secure payments, loyalty programs, and user management.",
-    image:
-      "https://images.pexels.com/photos/8085856/pexels-photo-8085856.jpeg?auto=compress&cs=tinysrgb&w=1600",
-    ctaLink: "/contact",
-    category: "software",
-  },
-  {
-    id: 5,
-    title: "SmartPOS Terminal",
-    description:
-      "Next-generation point-of-sale hardware solution with integrated software, enabling seamless transactions, inventory management, and customer relationship tools in a sleek, user-friendly device.",
+      "Highly secure chip-based cards for both identity and banking, supporting EMV, contactless usage, and integration with ATMs, POS, and mobile apps.",
     image:
       "https://images.pexels.com/photos/6214476/pexels-photo-6214476.jpeg?auto=compress&cs=tinysrgb&w=1600",
     ctaLink: "/contact",
     category: "hardware",
   },
   {
-    id: 6,
-    title: "Biometric Authentication Device",
+    id: 3,
+    title: "Digital Wallet Solutions",
     description:
-      "Advanced hardware solution for secure identity verification using multiple biometric factors including fingerprint, facial recognition, and voice authentication for high-security financial environments.",
+      "Secure and intuitive mobile wallet for multi-channel payments, international remittances, and loyalty integrations—ideal for the digital-first generation.",
+    image:
+      "https://images.pexels.com/photos/8085856/pexels-photo-8085856.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    ctaLink: "/contact",
+    category: "software",
+  },
+  {
+    id: 4,
+    title: "Host Card Emulation (HCE)",
+    description:
+      "Enables mobile-based contactless payments using NFC and secure cloud storage. Ideal for banks seeking low-cost card alternatives and frictionless customer UX.",
+    image:
+      "https://images.pexels.com/photos/8297452/pexels-photo-8297452.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    ctaLink: "/contact",
+    category: "software",
+  },
+  {
+    id: 5,
+    title: "Core Banking Solution (CBS)",
+    description:
+      "Scalable, modular banking infrastructure supporting real-time operations, multi-channel integration, compliance (AML/KYC), and robust reporting.",
+    image:
+      "https://images.pexels.com/photos/5926389/pexels-photo-5926389.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    ctaLink: "/contact",
+    category: "software",
+  },
+  {
+    id: 6,
+    title: "Digital Onboarding & eKYC",
+    description:
+      "Remote onboarding system with biometric and document verification powered by AI for fast, compliant customer acquisition.",
     image:
       "https://images.pexels.com/photos/4386442/pexels-photo-4386442.jpeg?auto=compress&cs=tinysrgb&w=1600",
     ctaLink: "/contact",
-    category: "hardware",
+    category: "software",
   },
   {
     id: 7,
-    title: "Secure Banking Kiosk",
+    title: "ISO & PCI-DSS Certification Consultancy",
     description:
-      "Self-service banking kiosk with full transaction capabilities, account management, and customer service features. Designed for branch transformation and expanding service footprint without staffing increases.",
+      "Professional services for achieving global security certifications. Includes audits, roadmap development, and compliance support for finance & government sectors.",
     image:
-      "https://images.pexels.com/photos/2988232/pexels-photo-2988232.jpeg?auto=compress&cs=tinysrgb&w=1600",
+      "https://images.pexels.com/photos/7567464/pexels-photo-7567464.jpeg?auto=compress&cs=tinysrgb&w=1600",
     ctaLink: "/contact",
-    category: "hardware",
+    category: "software",
   },
   {
     id: 8,
-    title: "Mobile Banking Suite",
+    title: "ICT Consultancy & System Integration",
     description:
-      "Comprehensive mobile banking application framework that can be customized and deployed quickly, offering full banking functionality, personal finance management, and integrated support channels.",
+      "Expert planning, project management, integration, and training services for ICT transformation across financial and government institutions.",
     image:
       "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1600",
     ctaLink: "/contact",
     category: "software",
+  },
+  {
+    id: 9,
+    title: "Smart ID & Government Payment Solutions",
+    description:
+      "Consulting and implementation of digital ID systems and secure government payment infrastructure, enabling inclusive and efficient public services.",
+    image:
+      "https://images.pexels.com/photos/2988232/pexels-photo-2988232.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    ctaLink: "/contact",
+    category: "hardware",
   },
 ];
 
