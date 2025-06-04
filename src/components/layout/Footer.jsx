@@ -145,16 +145,16 @@ const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin size={20} className="text-primary flex-shrink-0 mt-1" />
                 <span className="text-primary-foreground/80">
-                  123 Technology Park, Finance District, New York, NY 10001, USA
+                 260/B, Tejgaon I/A, Dhaka - 1208, Bangladesh
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={20} className="text-primary flex-shrink-0" />
                 <a
-                  href="tel:+12345678900"
+                  href="tel:+8801713482055"
                   className="text-primary-foreground/80 hover:text-primary transition-colors"
                 >
-                  +1 (234) 567-8900
+                 +880 1713-482055
                 </a>
               </li>
               <li className="flex items-center gap-3">
