@@ -28,7 +28,7 @@ const latestProducts = [
     id: 1,
     title: "Smart Banking Card",
     description:
-      "EMV Contact and Contactless cards supporting VISA, MasterCard, American Express, JCB, and China UnionPay.",
+      "EMV Contact and Contactless cards supporting global payment networks like VISA, MasterCard, American Express, JCB, and China UnionPay.",
     image:
       "https://images.pexels.com/photos/8919570/pexels-photo-8919570.jpeg?auto=compress&cs=tinysrgb&w=1600",
     link: "/products/smart-banking-card",
@@ -37,7 +37,7 @@ const latestProducts = [
     id: 2,
     title: "Digital Wallet Solutions",
     description:
-      "Secure digital storage for cards and payments with contactless capabilities and multi-device support.",
+      "Secure cloud-based digital wallets for contactless payments, loyalty programs, and P2P transfers across mobile platforms.",
     image:
       "https://images.pexels.com/photos/5926389/pexels-photo-5926389.jpeg?auto=compress&cs=tinysrgb&w=1600",
     link: "/products/digital-wallet",
@@ -46,7 +46,7 @@ const latestProducts = [
     id: 3,
     title: "Smart ID Card Solutions",
     description:
-      "IC chip-based ID cards for national ID, farmers, pension, and health identification needs.",
+      "Multifunctional smart ID cards for national, health, pension, and financial identification with biometric integration.",
     image:
       "https://images.pexels.com/photos/6214476/pexels-photo-6214476.jpeg?auto=compress&cs=tinysrgb&w=1600",
     link: "/products/smart-id-card",
@@ -55,7 +55,7 @@ const latestProducts = [
     id: 4,
     title: "Core Banking Solutions",
     description:
-      "Comprehensive platform for managing financial operations, transactions, and digital banking.",
+      "Enterprise-grade banking software enabling digital-first operations, transaction management, and compliance automation.",
     image:
       "https://images.pexels.com/photos/8085856/pexels-photo-8085856.jpeg?auto=compress&cs=tinysrgb&w=1600",
     link: "/products/core-banking",
@@ -64,10 +64,46 @@ const latestProducts = [
     id: 5,
     title: "Digital Onboarding & eKYC",
     description:
-      "Streamlined customer registration with integrated identity verification and biometric recognition.",
+      "AI-driven customer onboarding system with real-time document scanning, facial verification, and risk analysis.",
     image:
       "https://images.pexels.com/photos/7567464/pexels-photo-7567464.jpeg?auto=compress&cs=tinysrgb&w=1600",
     link: "/products/digital-onboarding",
+  },
+  {
+    id: 6,
+    title: "Secure POS Terminals",
+    description:
+      "Advanced Point-of-Sale devices with multi-payment support, inventory sync, and secure biometric customer verification.",
+    image:
+      "https://images.pexels.com/photos/6214476/pexels-photo-6214476.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    link: "/products/secure-pos",
+  },
+  {
+    id: 7,
+    title: "Financial Analytics Suite",
+    description:
+      "Real-time dashboards for banks and fintechs to monitor transactions, customer trends, fraud detection, and KPI tracking.",
+    image:
+      "https://images.pexels.com/photos/8297452/pexels-photo-8297452.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    link: "/products/financial-analytics",
+  },
+  {
+    id: 8,
+    title: "Mobile Banking Framework",
+    description:
+      "A white-label mobile app toolkit offering funds transfer, loan applications, bill pay, and chatbot support.",
+    image:
+      "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    link: "/products/mobile-banking",
+  },
+  {
+    id: 9,
+    title: "Biometric Access Devices",
+    description:
+      "Hardware and software solution enabling secure access through fingerprint, facial recognition, or voice verification.",
+    image:
+      "https://images.pexels.com/photos/2988232/pexels-photo-2988232.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    link: "/products/biometric-access",
   },
 ];
 
